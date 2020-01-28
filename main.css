@@ -1,7 +1,12 @@
 body {
-  font-family: 'Open Sans', sans-serif;
   background-color: #f7f7ff;
   margin: 4% 4%;
+}
+main {
+  font-family: 'Open Sans', sans-serif;
+  display: block;
+  margins: auto;
+  max-width: 40em;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Dosis', sans-serif;
